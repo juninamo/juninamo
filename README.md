@@ -8,7 +8,7 @@
 ### Rheumatologist @Japan
 
 <kbd>
-<img src="https://github.com/juninamo/juninamo/images/README_logo.png" width="800" align="center">
+<img src="https://github.com/juninamo/juninamo/blob/main/images/README_logo.png" width="800" align="center">
 </kbd>
 
 Here are some ideas to get you started:
