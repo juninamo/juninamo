@@ -29,5 +29,5 @@
 <br />
 
 ### Connect with me:
-[<img align="left" alt="Revanth's twtter" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" />][https://twitter.com/InamoJun]
-[<img align="left" alt="Revanth's LinkedIn" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />][https://www.linkedin.com/in/jun-inamo-8949ba235/]
+[<img align="left" alt="Revanth's twtter" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" />](https://twitter.com/InamoJun)
+[<img align="left" alt="Revanth's LinkedIn" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />](https://www.linkedin.com/in/jun-inamo-8949ba235/)
