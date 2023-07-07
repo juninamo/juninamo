@@ -1,7 +1,7 @@
 ### Hi / こんにちは! 👋 This is Jun Inamo's github profile!
 
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social&label=Follow%20%40InamoJun)](https://twitter.com/InamoJun)
-[LinkedIn](www.linkedin.com/in/jun-inamo-8949ba235)
+[LinkedIn](https://www.linkedin.com/in/jun-inamo-8949ba235/)
 ![](https://komarev.com/ghpvc/?username=juninamo&style=flat-square&color=green&label=PROFILE+VIEWS)
 
 ### Computational Scientist @CU Anschutz Medical Campus
