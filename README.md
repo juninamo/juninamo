@@ -11,8 +11,6 @@
 <img src="https://github.com/juninamo/juninamo/blob/main/images/README_logo.png" width="800" align="center">
 </kbd>
 
-Here are some ideas to get you started:
-
 - 🧪 My research fileds are genomics/single-cell/autoimmune diseases
 - 🔭 I’m currently working on the laboratory of [Dr. Fan Zhang](https://fanzhanglab.org/), Center for Health AI University of Colorado Anschutz Medical Campus as Postdoc Fellow
 - 📄 Publications: [ORCID](https://orcid.org/0000-0002-9927-7936), [Google Scholar](https://scholar.google.com/citations?user=ikxer9AAAAAJ&hl=en)
