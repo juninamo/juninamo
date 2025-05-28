@@ -24,7 +24,7 @@
 
 - Alumni: [Tokyo Medical and Dental University](https://www.tmd.ac.jp/english/gfd/) (JSPS Postdoctoral Fellowship, 2021-2022); [Keio University](https://www.keio.ac.jp/en/) (Clinical Assistant Professor, 2017-2022); Kawasaki Municipal Hospital (General Internal Medicine Physician, 2016-2017); Yokohama Municipal Citizen’s Hospital (Resident Doctor, 2014-2016)
 
-- [Resume](https://github.com/juninamo/juninamo/blob/main/Resume_20230707.pdf)
+- [Resume](https://github.com/juninamo/juninamo/blob/main/Resume.pdf)
 
 <br />
 
