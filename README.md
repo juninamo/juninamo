@@ -4,12 +4,6 @@
 
 ### Computational Biologist and Rheumatologist @Japan
 
-<kbd>
-<img src="https://github.com/juninamo/juninamo/blob/main/images/README_logo.png" width="800" align="center">
-</kbd>
-
-<br />
-
 - 🧪 My research fileds are genomics/single-cell/autoimmune diseases
 
 - 📄 Publications: [ORCID](https://orcid.org/0000-0002-9927-7936), [Google Scholar](https://scholar.google.com/citations?user=ikxer9AAAAAJ&hl=en)
